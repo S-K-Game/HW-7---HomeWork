@@ -49,8 +49,11 @@
     שיניתי 2 סקריפטים:
   [CaveGenerator.cs]()
   [TilemapCaveGenerator.cs]()
+   [WinGame.cs]()
+  [LoseGame.cs]()
+
   
-  ### על מנת לראות את השינוי יש להיכנס לסצינה : c-tilemap-20
+  ### על מנת לראות את השינוי יש להיכנס לסצינה : b-radius-watching
   
     ### תמונה לאחר השינוי
 
