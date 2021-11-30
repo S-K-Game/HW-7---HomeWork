@@ -24,7 +24,7 @@
   ![](https://github.com/S-K-Game/HW5-IceTower/blob/master/Assets/Images/game%20pic.PNG)
   
   
-[*לחץ כאן על מנת לעבור למשחק*](https://sivan-koral.itch.io/ice)
+[*לחץ כאן על מנת לעבור למשחק*](https://sivan-koral.itch.io/quarrying-in-the-mountains)
   
   
   
@@ -40,7 +40,7 @@
   ![](https://github.com/S-K-Game/HW5-IceTower/blob/master/Assets/Images/game%20pic.PNG)
   
   
-[*לחץ כאן על מנת לעבור למשחק*](https://sivan-koral.itch.io/ice)
+[*לחץ כאן על מנת לעבור למשחק*](https://sivan-koral.itch.io/different-arrangement-for-tiles)
   
   
   ## בנו משחק שבו השחקן צריך לברוח  מאויבים על-גבי מפה אקראית של מערה. השחקן מתחיל בנקודה מסויימת על המפה, נניח בפינה השמאלית-תחתונה, וצריך להגיע לנקודה אחרת, נניח בפינה הימנית-עליונה. האויבים מתחילים בנקודות שונות על-גבי המפה, ורודפים אחריו. כשהשחקן מגיע ליעד, הוא עובר לרמה חדשה שבה המפה גדולה יותר נניח ב-10%. כך השחקן יכול להמשיך ולשחק לנצח על-גבי מפות יותר ויותר גדולות הנוצרות באקראי.
@@ -60,7 +60,7 @@
 ![](https://github.com/S-K-Game/HW5-IceTower/blob/master/Assets/Images/game%20pic.PNG)
   
   
-[*לחץ כאן על מנת לעבור למשחק*](https://sivan-koral.itch.io/ice) 
+[*לחץ כאן על מנת לעבור למשחק*](https://sivan-koral.itch.io/game-with-enemies) 
 
 
 
