@@ -31,8 +31,8 @@
   ## שנו את אלגוריתם יצירת המפה האקראית כך שייצור מפה עם כמה סוגים שונים של אריחים – יותר משניים. בדקו שהמפות הנוצרות הן הגיוניות ומציאותיות – אריחים דומים נמצאים זה ליד זה.
   
   שיניתי 2 סקריפטים:
-  [CaveGenerator.cs]()
-  [TilemapCaveGenerator.cs]()
+  [CaveGenerator.cs](https://github.com/S-K-Game/HW-7---HomeWork/blob/main/Assets/Scripts/4-generation/CaveGenerator.cs)
+  [TilemapCaveGenerator.cs](https://github.com/S-K-Game/HW-7---HomeWork/blob/main/Assets/Scripts/4-generation/TilemapCaveGenerator.cs)
   
   ### על מנת לראות את השינוי יש להיכנס לסצינה : c-tilemap-20
   
