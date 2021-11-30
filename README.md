@@ -57,7 +57,7 @@
   
   ### על מנת לראות את השינוי יש להיכנס לסצינה : b-radius-watching
   
-    ### תמונה לאחר השינוי
+### תמונה לאחר השינוי
 
 ![](https://github.com/S-K-Game/HW-7---HomeWork/blob/main/enemies.PNG)
   
