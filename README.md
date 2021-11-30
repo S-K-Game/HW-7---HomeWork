@@ -49,10 +49,10 @@
   
   
     שיניתי 2 סקריפטים:
-  [CaveGenerator.cs]()
-  [TilemapCaveGenerator.cs]()
-   [WinGame.cs]()
-  [LoseGame.cs]()
+  [CaveGenerator.cs](https://github.com/S-K-Game/HW-7-HomeWork-GameWithEnemy/blob/main/Assets/Scripts/4-generation/CaveGenerator.cs)
+  [TilemapCaveGenerator.cs](https://github.com/S-K-Game/HW-7-HomeWork-GameWithEnemy/blob/main/Assets/Scripts/4-generation/TilemapCaveGenerator.cs)
+   [WinGame.cs](https://github.com/S-K-Game/HW-7-HomeWork-GameWithEnemy/blob/main/Assets/WinGame.cs)
+  [LoseGame.cs](https://github.com/S-K-Game/HW-7-HomeWork-GameWithEnemy/blob/main/Assets/LoseGame.cs)
 
   
   ### על מנת לראות את השינוי יש להיכנס לסצינה : b-radius-watching
