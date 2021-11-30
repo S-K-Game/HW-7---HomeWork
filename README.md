@@ -37,7 +37,7 @@
   ### על מנת לראות את השינוי יש להיכנס לסצינה : c-tilemap-20
   
   ### תמונה לאחר השינוי
-  ![](https://github.com/S-K-Game/HW-7---HomeWork/blob/main/newOrder.PNG
+  ![](https://github.com/S-K-Game/HW-7---HomeWork/blob/main/newOrder.PNG)
   
   
 [*לחץ כאן על מנת לעבור למשחק*](https://sivan-koral.itch.io/different-arrangement-for-tiles)
