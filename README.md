@@ -24,6 +24,9 @@
   ![](https://github.com/S-K-Game/HW5-IceTower/blob/master/Assets/Images/game%20pic.PNG)
   
   
+[*לחץ כאן על מנת לעבור למשחק*](https://sivan-koral.itch.io/ice)
+  
+  
   
   ## שנו את אלגוריתם יצירת המפה האקראית כך שייצור מפה עם כמה סוגים שונים של אריחים – יותר משניים. בדקו שהמפות הנוצרות הן הגיוניות ומציאותיות – אריחים דומים נמצאים זה ליד זה.
   
@@ -34,20 +37,29 @@
   ### על מנת לראות את השינוי יש להיכנס לסצינה : c-tilemap-20
   
   ### תמונה לאחר השינוי
+  ![](https://github.com/S-K-Game/HW5-IceTower/blob/master/Assets/Images/game%20pic.PNG)
   
   
-  
-  ## 
-  
+[*לחץ כאן על מנת לעבור למשחק*](https://sivan-koral.itch.io/ice)
   
   
+  ## בנו משחק שבו השחקן צריך לברוח  מאויבים על-גבי מפה אקראית של מערה. השחקן מתחיל בנקודה מסויימת על המפה, נניח בפינה השמאלית-תחתונה, וצריך להגיע לנקודה אחרת, נניח בפינה הימנית-עליונה. האויבים מתחילים בנקודות שונות על-גבי המפה, ורודפים אחריו. כשהשחקן מגיע ליעד, הוא עובר לרמה חדשה שבה המפה גדולה יותר נניח ב-10%. כך השחקן יכול להמשיך ולשחק לנצח על-גבי מפות יותר ויותר גדולות הנוצרות באקראי.
   
+  
+    שיניתי 2 סקריפטים:
+  [CaveGenerator.cs]()
+  [TilemapCaveGenerator.cs]()
+  
+  ### על מנת לראות את השינוי יש להיכנס לסצינה : c-tilemap-20
+  
+    ### תמונה לאחר השינוי
 
+![](https://github.com/S-K-Game/HW5-IceTower/blob/master/Assets/Images/game%20pic.PNG)
   
   
 [*לחץ כאן על מנת לעבור למשחק*](https://sivan-koral.itch.io/ice) 
 
 
-![](https://github.com/S-K-Game/HW5-IceTower/blob/master/Assets/Images/game%20pic.PNG)
+
 
 </div>
