@@ -11,7 +11,7 @@
 ## . הוסיפו לשחקן אפשרות לחצוב בהר – למשל ע"י לחיצה על X וחץ ימינה, אם יש הר בצד ימין, ההר יהפוך לדשא. האפשרות הזאת תוודא שהשחקן לא "נתקע" במערה שאי-אפשר לצאת ממנה. החציבה תהיה איטית יותר מהליכה רגילה.
   
   הסקריפט ששינתי הוא:
-  [KeyboardMoverByTile.cs]()
+  [KeyboardMoverByTile.cs](https://github.com/S-K-Game/HW-7---HomeWork/blob/main/Assets/Scripts/2-player/KeyboardMoverByTile.cs)
   
   ### על מנת לראות את השינוי יש להיכנס לסצינה : c-click-movement
   
