@@ -17,11 +17,11 @@
   
   ### תמונה לפני החציבה:
   
-  ![](https://github.com/S-K-Game/HW5-IceTower/blob/master/Assets/Images/game%20pic.PNG)
+  ![](https://github.com/S-K-Game/HW-7---HomeWork/blob/main/before1.PNG)
   
   ### תמונה אחרי החציבה:
   
-  ![](https://github.com/S-K-Game/HW5-IceTower/blob/master/Assets/Images/game%20pic.PNG)
+  ![](https://github.com/S-K-Game/HW-7---HomeWork/blob/main/after1.PNG)
   
   
 [*לחץ כאן על מנת לעבור למשחק*](https://sivan-koral.itch.io/quarrying-in-the-mountains)
@@ -37,7 +37,7 @@
   ### על מנת לראות את השינוי יש להיכנס לסצינה : c-tilemap-20
   
   ### תמונה לאחר השינוי
-  ![](https://github.com/S-K-Game/HW5-IceTower/blob/master/Assets/Images/game%20pic.PNG)
+  ![](https://github.com/S-K-Game/HW-7---HomeWork/blob/main/newOrder.PNG
   
   
 [*לחץ כאן על מנת לעבור למשחק*](https://sivan-koral.itch.io/different-arrangement-for-tiles)
@@ -57,7 +57,7 @@
   
     ### תמונה לאחר השינוי
 
-![](https://github.com/S-K-Game/HW5-IceTower/blob/master/Assets/Images/game%20pic.PNG)
+![](https://github.com/S-K-Game/HW-7---HomeWork/blob/main/enemies.PNG)
   
   
 [*לחץ כאן על מנת לעבור למשחק*](https://sivan-koral.itch.io/game-with-enemies) 
