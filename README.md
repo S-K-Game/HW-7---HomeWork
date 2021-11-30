@@ -48,7 +48,7 @@
   ## בנו משחק שבו השחקן צריך לברוח  מאויבים על-גבי מפה אקראית של מערה. השחקן מתחיל בנקודה מסויימת על המפה, נניח בפינה השמאלית-תחתונה, וצריך להגיע לנקודה אחרת, נניח בפינה הימנית-עליונה. האויבים מתחילים בנקודות שונות על-גבי המפה, ורודפים אחריו. כשהשחקן מגיע ליעד, הוא עובר לרמה חדשה שבה המפה גדולה יותר נניח ב-10%. כך השחקן יכול להמשיך ולשחק לנצח על-גבי מפות יותר ויותר גדולות הנוצרות באקראי.
   
   
-    שיניתי 2 סקריפטים:
+שיניתי 2 סקריפטים והוספתי 2 חדשים לשחקן.
   [CaveGenerator.cs](https://github.com/S-K-Game/HW-7-HomeWork-GameWithEnemy/blob/main/Assets/Scripts/4-generation/CaveGenerator.cs)
   [TilemapCaveGenerator.cs](https://github.com/S-K-Game/HW-7-HomeWork-GameWithEnemy/blob/main/Assets/Scripts/4-generation/TilemapCaveGenerator.cs)
    [WinGame.cs](https://github.com/S-K-Game/HW-7-HomeWork-GameWithEnemy/blob/main/Assets/WinGame.cs)
